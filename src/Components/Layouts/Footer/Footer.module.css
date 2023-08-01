@@ -1,0 +1,27 @@
+.footer {
+  width: 100%;
+  height: 12rem;
+  padding: 2.4rem 4vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: var(--color-gray);
+}
+
+.icons {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+
+i {
+  color: var(--color-gray);
+  font-size: var(--text-title-m);
+}
+
+p {
+  font-size: var(--text-small);
+  opacity: 50%;
+}
