@@ -1,6 +1,6 @@
 import React from "react";
 import footerStyle from "./Footer.module.css";
-import { NavLink, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 function Footer() {
   return (
     <div className={footerStyle.footer}>

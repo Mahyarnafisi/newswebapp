@@ -28,6 +28,7 @@
 }
 
 .location__btn {
+  font-size: var(--text-title-m);
 }
 .logo {
   width: 6.8rem;

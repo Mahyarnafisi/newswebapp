@@ -59,10 +59,10 @@ button {
 
 :root {
   --text-small: 1.8rem;
-  --text-title-s: 2.2rem;
-  --text-title-m: 3rem;
-  --text-title-l: 4.6rem;
-  --text-display: 5.6rem;
+  --text-title-s: 2rem;
+  --text-title-m: 2.8rem;
+  --text-title-l: 4.2rem;
+  --text-display: 5.2rem;
 
   --color-white: #ffffff;
   --color-gray: #555555;
