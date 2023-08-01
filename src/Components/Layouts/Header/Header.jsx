@@ -1,7 +1,7 @@
 import React from "react";
 import headerStyles from "./Header.module.css";
 import Logo from "../../../assets/logos_png/CMYK_Blue_Type_Tile_Only.png";
-import { Link, Route } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 function Header(props) {
   return (

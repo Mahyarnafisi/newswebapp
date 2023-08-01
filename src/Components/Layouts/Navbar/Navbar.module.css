@@ -1,0 +1,23 @@
+.navbar {
+  width: 100%;
+  padding: 2.4rem 4vw;
+  /* border: 1px solid blue; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navbar__container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4rem;
+}
+.navLink {
+  text-decoration: none;
+  color: var(--color-blue-2);
+}
+
+.navLink:hover {
+  color: var(--color-blue-1);
+  text-decoration: underline;
+}

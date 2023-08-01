@@ -1,0 +1,27 @@
+.buttonGroup__inner {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2.4rem 4vw;
+  gap: 1rem;
+}
+
+.navLink {
+  height: 6.4rem;
+  padding: 2rem;
+  border-radius: 0.6rem;
+  border: 3px solid var(--color-red-1);
+  font-size: var(--text-title-s);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: var(--color-gray);
+  transition: all 0.2s;
+}
+
+.navLink:hover {
+  background-color: var(--color-red-1);
+  color: var(--color-white);
+}

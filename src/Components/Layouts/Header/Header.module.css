@@ -5,7 +5,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 6.4rem;
+  padding: 2.4rem 4vw;
   position: relative;
   z-index: 100;
 }
@@ -30,8 +30,8 @@
 .location__btn {
 }
 .logo {
-  width: 5.6rem;
-  height: 5.6rem;
+  width: 6.8rem;
+  height: 6.8rem;
   position: absolute;
   transform: translate(-50%, -50%);
   top: 50%;
