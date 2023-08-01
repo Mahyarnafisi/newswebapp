@@ -1,7 +1,10 @@
 .sidebar {
   position: fixed;
   background-color: var(--color-blue-1);
-  width: 70rem;
+  width: 100%;
+  max-width: 70rem;
+  min-width: 32rem;
+  flex: 1;
   top: 0;
   height: 100vh;
   padding: 6rem;
