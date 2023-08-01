@@ -16,12 +16,11 @@
   gap: 2rem;
 }
 
-i {
-  color: var(--color-gray);
+.link {
   font-size: var(--text-title-m);
+  color: var(--color-gray);
 }
-
-p {
-  font-size: var(--text-small);
+.text {
   opacity: 50%;
+  font-size: var(--text-small);
 }
