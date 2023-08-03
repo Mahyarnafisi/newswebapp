@@ -22,7 +22,6 @@ function Sidebar(props) {
           <NavLink className={sidebarStyle.sidebar__mainLink}>franchise</NavLink>
         </div>
         <br />
-        <br />
         <div className={sidebarStyle.sidebar__links}>
           <NavLink className={sidebarStyle.sidebar__link}>Nutritional Info</NavLink>
           <NavLink className={sidebarStyle.sidebar__link}>Terms of use</NavLink>
@@ -32,7 +31,7 @@ function Sidebar(props) {
         </div>
         <br />
         <div className={sidebarStyle.sidebar__language}>
-          <h2>Language</h2>
+          <h3>Language</h3>
           <button className={sidebarStyle.sidebar__language_btn}>English</button>
         </div>
       </div>

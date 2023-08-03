@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <Header />
       <Main />
-      <Sidebar />
+      {/* <Sidebar /> */}
     </div>
   );
 }
