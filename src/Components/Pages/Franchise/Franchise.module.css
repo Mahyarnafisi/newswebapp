@@ -81,3 +81,9 @@
 .section__3 h2 {
   font-weight: 800;
 }
+
+.section__3 img {
+  width: 100%;
+  border-radius: 0.5rem;
+  margin: 2.4rem 0;
+}

@@ -1,5 +1,6 @@
 import React from "react";
 import franchiseStyle from "./Franchise.module.css";
+import franchiseImage from "../../../assets/image/franchise_person.webp";
 function Franchise(props) {
   return (
     <div className={franchiseStyle.franchise}>
@@ -35,6 +36,7 @@ function Franchise(props) {
           My journey with Dominos started as a store manager in 2019. As soon as I got the opportunity, I became the first franchisee in Sweden. The best thing about this job is that every day new challenges are waiting and there is always
           room for improvement.
         </p>
+        <img src={franchiseImage} alt="franchise picture" />
       </div>
     </div>
   );
