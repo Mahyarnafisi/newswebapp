@@ -1,8 +1,9 @@
 .main {
   width: 100%;
-  padding: 2.4rem 5vw;
+  padding: 0 5vw;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
   flex-direction: column;
+  position: relative;
 }

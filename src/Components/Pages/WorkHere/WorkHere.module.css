@@ -1,0 +1,36 @@
+.workhere {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  pad: 2.4rem 4vw;
+  width: 100%;
+  max-width: 87.6rem;
+  min-width: 32rem;
+  color: var(--color-dark);
+  height: calc(100vh - (12rem * 2));
+}
+.title {
+  margin-bottom: 2rem;
+}
+.section__1 {
+  padding: 3.2rem 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  gap: 2rem;
+  /* border-bottom: 3px dotted var(--color-gray); */
+}
+
+.section__1 h2 {
+  font-size: var(--text-title-m);
+  font-weight: 800;
+}
+
+.section__1 p {
+  text-align: start;
+  font-size: var(--text-title-s);
+  line-height: 1.7;
+}

@@ -8,6 +8,7 @@
   max-width: 87.6rem;
   min-width: 32rem;
   color: var(--color-dark);
+  height: min-content;
 }
 .title {
   margin-bottom: 2rem;

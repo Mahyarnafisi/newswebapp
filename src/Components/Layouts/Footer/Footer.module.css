@@ -1,11 +1,12 @@
 .footer {
   width: 100%;
   height: 12rem;
-  padding: 2.4rem 0;
+  padding: 2.4rem 4vw;
   display: flex;
   align-items: center;
   justify-content: space-between;
   color: var(--color-gray);
+  z-index: 200;
 }
 
 .icons {
